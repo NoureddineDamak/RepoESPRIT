@@ -1,0 +1,12 @@
+INDEX VERSION 1.126+D:\EspritToolsJee5\Workspace\StageEte\Repo\.metadata\.plugins\org.eclipse.jdt.core
+273750159.index
+358627986.index
+2389915561.index
+2529538637.index
+2138625070.index
+2527271110.index
+2861696017.index
+1409039876.index
+2094753532.index
+3572761176.index
+470356753.index
